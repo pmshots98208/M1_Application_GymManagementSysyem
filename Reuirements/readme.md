@@ -97,7 +97,7 @@ Opportunities and threats are external—things that are going on outside your c
 
 ### Here is pictorial form of my SWOT analysis.
 
-![image SWOT](https://www.linkpicture.com/q/SWOTAnalysisWorksheet.jpg)
+[![image](https://www.linkpicture.com/q/SWOTAnalysisWorksheet.jpg)](https://www.linkpicture.com/view.php?img=LPic619a4f3f6451d1242199844)
 
 
 
