@@ -122,7 +122,12 @@ By creating an application and through taking input data it will give the result
 # DETAIL REQUIREMENT
 
 ### High Level Requirement(HLR)
+
+![HLR](https://i.ibb.co/KrsNMwQ/high-level-requirements-chart-page0001.jpg)
+
 ### Low Level Requirement(LLR)
+
+![](https://i.ibb.co/f4NJ44w/LOW-level-requirements-chart-page0001.jpg)
 
 
 
