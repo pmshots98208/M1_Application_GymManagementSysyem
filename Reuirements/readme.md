@@ -95,6 +95,9 @@ Strengths and weaknesses are internal to your company—things that you have som
 
 Opportunities and threats are external—things that are going on outside your company, in the larger market. You can take advantage of opportunities and protect against threats, but you can’t change them. Examples include competitors, prices of raw materials, and customer shopping trends.
 
+### Here is pictorial form of my SWOT analysis.
+
+![image SWOT](https://www.linkpicture.com/q/SWOTAnalysisWorksheet.jpg)
 
 
 
