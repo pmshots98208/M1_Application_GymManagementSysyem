@@ -100,5 +100,30 @@ Opportunities and threats are external—things that are going on outside your c
 [![image](https://www.linkpicture.com/q/SWOTAnalysisWorksheet.jpg)](https://www.linkpicture.com/view.php?img=LPic619a4f3f6451d1242199844)
 
 
+# 4W 1H
+
+### What is 4W 1H?
+
+It lets you know 4 things for your project.
+Now in my project what is that 4W AND 1H.
+
+### WHO? 
+Those who want to opt the fitness,want a detailed data of their fitness stats. And for those who loves easy process.
+### WHAT?
+Aapplication with a product which advacement in technology used in GYM.
+### WHEN?
+Within 6 months it will be market.
+### WHERE
+Inside GYM, Fitness club, Sports club.
+### HOW
+By creating an application and through taking input data it will give the result what we want to see.
+
+
+# DETAIL REQUIREMENT
+
+### High Level Requirement(HLR)
+### Low Level Requirement(LLR)
+
+
 
 
