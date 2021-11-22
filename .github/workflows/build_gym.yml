@@ -1,4 +1,4 @@
-name: Build_gym
+name: build
 
 on:
   push:
@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build_gym
+    - name: build
       run: gcc workflow.c -o workflow.exe
     - name: Run
       run: .\workflow.exe
