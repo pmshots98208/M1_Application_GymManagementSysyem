@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
+    - name: build_gym
       run: gcc workflow.c -o workflow.exe
     - name: Run
       run: .\workflow.exe
