@@ -89,7 +89,6 @@ Stay connected with us to know this. thank you.
 
 # DEFINING OUR SYSTEM
 
-
 It is always necessary to study and recognize the problems of existing system, which will help in finding out the requirements for the new system. System study helps in finding different alternatives for better solution.
 The project study basically deals with different operations and steps involved in generation of examination mark sheets.
 
