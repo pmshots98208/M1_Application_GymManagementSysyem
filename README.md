@@ -31,10 +31,7 @@ Codacy Code Quality
 3. Module was too fast for person who know very few things.
 4. Badge was really messing thing.
 
-# COMMITMENT
 
-As Now I was not able to deliver the expected result. But I learned many thing and I want to thankyou all. I am going to make another project after this module for my own learning.
-### Thank You
 
 # Learnng Resources
 
