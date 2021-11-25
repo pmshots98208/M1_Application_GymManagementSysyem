@@ -1,6 +1,6 @@
 {
     "files.associations": {
-        "GYM.C": "cpp"
+        "gms.c": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
