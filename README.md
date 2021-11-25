@@ -24,4 +24,28 @@ Codacy Code Quality
 | 7_Others |   Things other than above mentioned |   
 
 
+# Problems Faced
+
+1. After messing for almost two days not able to creats badge, Something is missing and I cannot figure it.
+2. Thigs are far new for me to understand.
+3. Module was too fast for person who know very few things.
+4. Badge was really messing thing.
+
+# COMMITMENT
+
+As Now I was not able to deliver the expected result. But I learned many thing and I want to thankyou all. I am going to make another project after this module for my own learning.
+### Thank You
+
+# Learnng Resources
+
+1. Basic writing and formatting syntax [GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+2. Markdown for Dummies [.md files](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
+
+3. Tutorial [GIT](https://www.w3schools.com/git/default.asp)
+
+
+
+
+
 
