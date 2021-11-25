@@ -198,14 +198,75 @@ By creating an application and through taking input data it will give the result
 
 
 
-
 | Folder Structure   |      Folder Description     | 
 |--------------------|:-------------:|
 | inc  |  All header files | 
 | src  |    Main source code for calculation  |   
 | test | All source code and data for testing purposes |  
 |Unity | for unity testing | 
-| build | Build outputs |     
+| build | Build outputs |
+
+
+# TEST PLAN
+
+# High Level Test Plan
+
+| Test NO.   |       Description     |  Expected i/p  |  Expected O/P | Actual O/P | Type of test |
+|--------------------|:-------------:|-----------------|---------------|------------|------------|
+| H_01  |      working     |  DATE ENTRY  |  WILL SHOW | SHOWN | Data |
+| H_02  |     Components of data and inputs    |  All feed  |  WILL SHOW | SHOWN | Component |
+| H_03  |      Test the ruuning in system   |  +ve  |  +ve | Code shows faults | System|
+
+
+# Low level Test Plan
+
+| Test NO.   |       Description     |  Expected i/p  |  Expected O/P | Actual O/P | Type of test |
+|--------------------|:-------------:|-----------------|---------------|------------|------------|
+| H_01  |      User Name and Password     |  DATE ENTRY  |  WILL SHOW | SHOWN | data |
+| H_02  |     Validation od credentials    |  DATE ENTRY  |  WILL SHOW | SHOWN | data |
+| H_03  |      Codacy    |  +ve  |  +ve | Code shows faults | Unity|
+
+
+# Folder	Description
+
+
+
+
+| Folder Structure   |      Folder Description     | 
+|--------------------|:-------------:|
+| 1_Requirements  |  Documents detailing requirements and research and stats | 
+| 2_Design |    Documents specifying design details  |   
+|3_Implementation | All code and documentation | 
+|4_Test_plan |	Documents with test plans and procedures |     
+| 5_Report | Full summary of project |
+| 6_Images and Videos |   A video detailing the project and some image reference  |   
+| 7_Others |   Things other than above mentioned |   
+
+
+# Problems Faced
+
+1. After messing for almost two days not able to creats badge, Something is missing and I cannot figure it.
+2. Thigs are far new for me to understand.
+3. Module was too fast for person who know very few things.
+4. Badge was really messing thing.
+
+# COMMITMENT
+
+As Now I was not able to deliver the expected result. But I learned many thing and I want to thankyou all. I am going to make another project after this module for my own learning.
+### Thank You
+
+# Learnng Resources
+
+1. Basic writing and formatting syntax [GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+2. Markdown for Dummies [.md files](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
+
+3. Tutorial [GIT](https://www.w3schools.com/git/default.asp)
+
+
+
+
+
 
 
 
